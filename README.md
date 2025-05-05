@@ -12,7 +12,7 @@
   <img align="center" alt="Nicolas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nicolas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Nicolas-Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-  <img align="right" alt="Nicolas-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/113986845?v=4">
+  <img align="right" alt="Nicolas-pic" height="150" style="border-radius:50px;" src="https://cdn-images.dzcdn.net/images/cover/993544d09338b696e67aad9664f05dcc/0x1900-000000-80-0-0.jpg">
 </div>
 
 ##
@@ -23,4 +23,5 @@
 </div>
 
 ![Snake animation](https://github.com/Nicolasvitto/Nicolasvitto/blob/output/github-contribution-grid-snake.svg)
+
 
